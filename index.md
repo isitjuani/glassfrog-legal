@@ -40,9 +40,6 @@ Species photos come from iNaturalist and descriptions from Wikipedia, under thei
 ### Retention and deletion
 Your data is kept while your account exists. You can delete your account at any time from **Profile → Settings → Delete account**. This permanently removes your profile, discoveries, photos, badges and friendships. If you signed in with Apple, access is also revoked.
  
-### Children
-glassfrog is not directed to children under 13.
- 
 ### Contact
 glassfrogapp@gmail.com
  
